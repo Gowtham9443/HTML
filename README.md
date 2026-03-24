@@ -1,71 +1,91 @@
-# 🚀 Gowtham's Project Collection
+# 🚀 Gowtham M — HTML Project 
 
-Welcome to my project portfolio!
-Here are all my projects listed in order:
+Welcome to my project portfolio repository.
+This collection showcases my work across web applications, tools, games, and productivity systems.
 
 ---
 
 ## 📌 Projects
 
-1. **3D**
-   🔗 https://gowtham2025.neocities.org/project%20/3D/
+### 1. 3D
 
-2. **Agri Tools TN**
-   🔗 https://gowtham2025.neocities.org/project%20/Agri%20Tools%20TN/in
+**DEMO LINK :** https://gowtham2025.neocities.org/project%20/3D/
 
-3. **Angry Birds**
-   🔗 https://gowtham2025.neocities.org/project%20/Angry%20Birds/Bird
+### 2. Agri Tools TN
 
-4. **FarmTools**
-   🔗 https://gowtham2025.neocities.org/project%20/FarmTools/in
+**DEMO LINK :** https://gowtham2025.neocities.org/project%20/Agri%20Tools%20TN/in
 
-5. **Fruit Ninja**
-   🔗 https://gowtham2025.neocities.org/project%20/Fruit%20Ninja/game
+### 3. Angry Birds
 
-6. **Image Editor Pro**
-   🔗 https://gowtham2025.neocities.org/project%20/Image%20Editor%20Pro/in
+**DEMO LINK :** https://gowtham2025.neocities.org/project%20/Angry%20Birds/Bird
 
-7. **Image to PDF Converter**
-   🔗 https://gowtham2025.neocities.org/project%20/Image%20to%20PDF%20Converter/in
+### 4. FarmTools
 
-8. **LavaType Racer**
-   🔗 https://gowtham2025.neocities.org/project%20/LavaType%20Racer/in
+**DEMO LINK :** https://gowtham2025.neocities.org/project%20/FarmTools/in
 
-9. **Multi Business CRM**
-   🔗 https://gowtham2025.neocities.org/project%20/Multi%20Business%20CRM/
+### 5. Fruit Ninja
 
-10. **Network Speed Test**
-    🔗 https://gowtham2025.neocities.org/project%20/Network%20Speed%20Test/in
+**DEMO LINK :** https://gowtham2025.neocities.org/project%20/Fruit%20Ninja/game
 
-11. **OS Project**
-    🔗 https://gowtham2025.neocities.org/project%20/Os%20project/in
+### 6. Image Editor Pro
 
-12. **PC Repair**
-    🔗 https://gowtham2025.neocities.org/project%20/PC%20Repair/in
+**DEMO LINK :** https://gowtham2025.neocities.org/project%20/Image%20Editor%20Pro/in
 
-13. **Project Synesthesia**
-    🔗 https://gowtham2025.neocities.org/project%20/Project%20Synesthesia/in
+### 7. Image to PDF Converter
 
-14. **Rotate & Flip Image**
-    🔗 https://gowtham2025.neocities.org/project%20/Rotate%20&%20Flip%20Image/in
+**DEMO LINK :** https://gowtham2025.neocities.org/project%20/Image%20to%20PDF%20Converter/in
 
-15. **Smart Learning Scheduler**
-    🔗 https://gowtham2025.neocities.org/project%20/Smart%20Learning%20Scheduler/in
+### 8. LavaType Racer
 
-16. **Student Data Collection**
-    🔗 https://gowtham2025.neocities.org/project%20/Student%20Data%20Collection/in
+**DEMO LINK :** https://gowtham2025.neocities.org/project%20/LavaType%20Racer/in
 
-17. **Student QR Form**
-    🔗 https://gowtham2025.neocities.org/project%20/Student%20QR%20Form/
+### 9. Multi Business CRM
 
-18. **Text Tools**
-    🔗 https://gowtham2025.neocities.org/project%20/Text%20Tools/in
+**DEMO LINK :** https://gowtham2025.neocities.org/project%20/Multi%20Business%20CRM/
 
-19. **Veggies & Fruits**
-    🔗 https://gowtham2025.neocities.org/project%20/Veggies%20&%20Fruits/
+### 10. Network Speed Test
 
-20. **Work Management Dashboard**
-    🔗 https://gowtham2025.neocities.org/project%20/work%20management%20dashboard/
+**DEMO LINK :** https://gowtham2025.neocities.org/project%20/Network%20Speed%20Test/in
+
+### 11. OS Project
+
+**DEMO LINK :** https://gowtham2025.neocities.org/project%20/Os%20project/in
+
+### 12. PC Repair
+
+**DEMO LINK :** https://gowtham2025.neocities.org/project%20/PC%20Repair/in
+
+### 13. Project Synesthesia
+
+**DEMO LINK :** https://gowtham2025.neocities.org/project%20/Project%20Synesthesia/in
+
+### 14. Rotate & Flip Image
+
+**DEMO LINK :** https://gowtham2025.neocities.org/project%20/Rotate%20&%20Flip%20Image/in
+
+### 15. Smart Learning Scheduler
+
+**DEMO LINK :** https://gowtham2025.neocities.org/project%20/Smart%20Learning%20Scheduler/in
+
+### 16. Student Data Collection
+
+**DEMO LINK :** https://gowtham2025.neocities.org/project%20/Student%20Data%20Collection/in
+
+### 17. Student QR Form
+
+**DEMO LINK :** https://gowtham2025.neocities.org/project%20/Student%20QR%20Form/
+
+### 18. Text Tools
+
+**DEMO LINK :** https://gowtham2025.neocities.org/project%20/Text%20Tools/in
+
+### 19. Veggies & Fruits
+
+**DEMO LINK :** https://gowtham2025.neocities.org/project%20/Veggies%20&%20Fruits/
+
+### 20. Work Management Dashboard
+
+**DEMO LINK :** https://gowtham2025.neocities.org/project%20/work%20management%20dashboard/
 
 ---
 
@@ -78,4 +98,4 @@ Here are all my projects listed in order:
 
 ---
 
-⭐ Star this repo if you like it!
+⭐ Star this repository if you like my work!
