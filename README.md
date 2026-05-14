@@ -5,6 +5,18 @@ This collection showcases my work across web applications, tools, games, and pro
 
 ---
 
+## 🧑‍💻 Technologies Used
+
+* HTML
+* CSS
+* JavaScript
+* Java
+
+---
+
+⭐ Star this repository if you like my work!
+---
+
 ## 📌 Projects
 
 ### 1. 3D
@@ -81,13 +93,3 @@ This collection showcases my work across web applications, tools, games, and pro
 
 ---
 
-## 🧑‍💻 Technologies Used
-
-* HTML
-* CSS
-* JavaScript
-* Java
-
----
-
-⭐ Star this repository if you like my work!
