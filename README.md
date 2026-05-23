@@ -3,7 +3,7 @@
 Welcome to my project portfolio repository.
 This collection showcases my work across web applications, tools, games, and productivity systems.
 
----
+---  
 
 ## 🧑‍💻 Technologies Used
 
