@@ -10,7 +10,6 @@ This collection showcases my work across web applications, tools, games, and pro
 * HTML
 * CSS
 * JavaScript
-* Java
 
 ---
 
