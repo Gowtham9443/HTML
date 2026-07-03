@@ -90,10 +90,8 @@ This collection showcases my work across web applications, tools, games, and pro
 
 **DEMO LINK :** https://gowtham2025.neocities.org/project%20/work%20management%20dashboard/
 
----
 ### 19.RESUME
 
 **DEMO LINK :** https://gowtham2025.neocities.org/RESUME/
 
----
 
